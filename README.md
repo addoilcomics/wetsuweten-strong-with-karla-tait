@@ -1,5 +1,7 @@
 # #WetsuwetenStrong with Karla Tait
-Image assets from an illustrated The Red Nation podcast interview with Dr. Karla Tait. **Feel free to print, change and share!** No commerical use though.
+Image assets from an illustrated The Red Nation podcast interview with Dr. Karla Tait.
+
+**Feel free to print, change and share!** No commerical use though.
 
 ---
 
@@ -19,4 +21,4 @@ The image assets in this repository are licensed under a Creative Commons Attrib
 
 ## Further information and action
 
-See the Unist'ot'en Camp's [Wet’suwet’en Supporter Toolkit 2020](http://unistoten.camp/supportertoolkit2020/)
+See the Unist'ot'en Camp's [Wet’suwet’en Supporter Toolkit 2020](http://unistoten.camp/supportertoolkit2020/).
