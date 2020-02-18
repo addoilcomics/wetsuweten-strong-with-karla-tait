@@ -15,7 +15,29 @@ Image assets from an illustrated The Red Nation podcast interview with Dr. Karla
 
 ## Image assets
 
-The image assets in this repository are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+The image assets in this repository are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. (Just credit `Add Oil Comics`.)
+
+Full-size images are displayed below, so it may take a while to load:
+
+![Drawing of RCMP peeking through a barrier marked reconciliation](01.png)
+
+![Drawing of two giddy RCMP officers with a dog](02.png)
+
+![Drawing of a snowy temporary RCMP outpost](03.png)
+
+![Drawing of two RCMP officers look suspiciously on](04.png)
+
+![Drawing of an innocent person picking something in the wilderness](05.png)
+
+![Drawing of a person holding onto some firewood in front of the Unist’ot’en Healing Centre](06.png)
+
+![Drawing of some branches in the snow](07.png)
+
+![Drawing of three Wet'suwet'en Hereditary Chiefs](08.png)
+
+![Drawing of an RCMP helicopter](09.png)
+
+![Drawing of handcuffed hands](10.png)
 
 ---
 
